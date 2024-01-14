@@ -1,0 +1,9 @@
+.container {
+        display: grid;
+        grid-template-columns: 50% 50%
+ }
+hr {
+        border-top: 10px dotted red;
+        background-color: ;
+       
+ }
